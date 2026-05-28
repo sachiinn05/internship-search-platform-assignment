@@ -7,7 +7,7 @@ A modern internship search platform inspired by Internshala, built using React.j
 Add your deployed link here:
 
 ```bash
-https://your-vercel-link.vercel.app
+https://internship-search-platform-assignme.vercel.app
 ```
 
 ---
